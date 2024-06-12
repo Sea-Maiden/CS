@@ -1,3 +1,3 @@
 # CS
-All course projects and their materials, resources, presentations, and final papers.
+All course projects and their materials, resources, presentations, final papers, and examinations.
 To be continue...
